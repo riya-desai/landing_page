@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Verdana|Roboto")
+@import url("https://fonts.googleapis.com/css?family=HelveticaNeue")
 {}
 @import url("components/container.css");
 @import url("components/button.css");
@@ -7,12 +7,12 @@
 @import url("components/card.css");
 
 body {
-  font-family: 'Verdana', serif;
+  font-family: 'Helvetica Neue', sans-serif;
   font-size: 18px;
   margin: 0px;
 }
 h1, h2, h3 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Helvetica Neue', sans-serif;
   font-weight: bold;
 }
 a {
